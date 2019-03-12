@@ -1,0 +1,12 @@
+#removeBtn{
+    display: inline-block;
+    margin-top: 38px;
+}
+
+.modal{
+    z-index: 99999!important;
+}
+
+label.error{
+    color: red;
+}
